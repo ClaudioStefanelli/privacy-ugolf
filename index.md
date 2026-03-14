@@ -2,6 +2,7 @@ Privacy Policy
 
 
 Informativa sulla Privacy di UGolf
+
 Ultimo aggiornamento: 4 Marzo 2026
 
 La presente Informativa sulla Privacy descrive come Claudio Stefanelli, in qualità di sviluppatore indipendente ("io", "me" o "mio"), raccoglie, utilizza e protegge le tue informazioni quando utilizzi l'applicazione mobile UGolf (l'"App").
