@@ -3,46 +3,86 @@ Privacy Policy
 
 Informativa sulla Privacy di UGolf
 
-Ultimo aggiornamento: 4 Marzo 2026
+Ultimo aggiornamento: 1 Giugno 2026
 
-La presente Informativa sulla Privacy descrive come Claudio Stefanelli, in qualità di sviluppatore indipendente ("io", "me" o "mio"), raccoglie, utilizza e protegge le tue informazioni quando utilizzi l'applicazione mobile UGolf (l'"App").
-La mia priorità è proteggere la tua privacy. Questa App è stata progettata per raccogliere solo i dati strettamente necessari al suo funzionamento, nel pieno rispetto del Regolamento Generale sulla Protezione dei Dati (GDPR - Regolamento UE 2016/679).
+La presente Privacy Policy descrive le modalità di raccolta e trattamento dei dati personali degli utenti che utilizzano l’app UGolf, in conformità al GDPR.
 
-1. Quali dati personali raccolgo e perché
-Per permetterti di creare un account e utilizzare le funzionalità di UGolf, raccolgo esclusivamente i seguenti dati personali forniti direttamente da te in fase di registrazione:
-* Nome e Cognome
-* Data di nascita
-* Indirizzo E-mail
-Questi dati vengono utilizzati esclusivamente per permettere il corretto funzionamento dell'App, gestire il tuo profilo utente e garantire la sicurezza del tuo account. Non invio e-mail promozionali, newsletter o comunicazioni di marketing. L'indirizzo e-mail potrà essere utilizzato solo per rispondere a tue dirette richieste di assistenza.
+1. Titolare del trattamento
 
-2. Dati del dispositivo e permessi
+Il titolare del trattamento dei dati è il gestore dell’app UGolf.
+Per qualsiasi richiesta relativa ai dati personali, è possibile contattare il titolare tramite i contatti indicati di seguito o all’interno dell’app.
+
+2. Dati raccolti
+
+UGolf raccoglie esclusivamente i dati strettamente necessari al funzionamento dell’app nel pieno rispetto del Regolamento Generale sulla Protezione dei Dati (GDPR - Regolamento UE 2016/679).
+
+In particolare, possono essere raccolti:
+
+- dati identificativi (es. nome, anno nascita, username, email);
+- dati sportivi relativi all’attività golfistica dell’utente;
+- dati storici provenienti da sistemi terzi collegati (es. piattaforme sportive esterne);
+- dati inseriti manualmente dall’utente (es. risultati, statistiche, note).
+
+3. Finalità del trattamento
+
+I dati personali sono raccolti e trattati al fine di:
+
+- consentire l’utilizzo delle funzionalità dell’app;
+- registrare e visualizzare risultati sportivi;
+- integrare dati provenienti da fonti esterne con quelli inseriti manualmente;
+- migliorare l’esperienza d’uso dell’app.
+Il trattamento è limitato alle finalità sopra indicate.
+
+4. Minimizzazione dei dati
+
+UGolf applica il principio di minimizzazione dei dati: vengono raccolti e trattati solo i dati strettamente necessari per il corretto funzionamento dell’app e per fornire i servizi richiesti dall’utente.
+
 L'App non richiede né accede ad alcun dato personale o sensibile presente sul tuo dispositivo. Nello specifico, l'App:
-* Non accede alla tua posizione (GPS).
-* Non accede alla tua fotocamera o microfono.
-* Non accede alla tua galleria fotografica.
-* Non accede alla tua rubrica o ai tuoi contatti.
+- Non accede alla tua posizione (GPS).
+- Non accede alla tua fotocamera o microfono.
+- Non accede alla tua galleria fotografica.
+- Non accede alla tua rubrica o ai tuoi contatti.
 
-3. Tracciamento, Analytics e Pubblicità
-Rispetto la tua attenzione e la tua navigazione:
-* Nessun tracciamento: L'App non utilizza strumenti di tracciamento (tracking) di terze parti per monitorare il tuo comportamento.
-* Log tecnici e diagnostica: Gli unici dati di sistema che potrei raccogliere (tramite log) vengono utilizzati esclusivamente con lo scopo di analizzare eventuali crash, identificare malfunzionamenti dell'App e migliorarne le performance tecniche. Questi dati diagnostici sono strettamente legati al funzionamento del dispositivo, e non vengono mai utilizzati per profilare l'utente.
-* Nessuna Pubblicità: L'App non mostra annunci pubblicitari (Ads) e non condivide i tuoi dati con reti pubblicitarie.
+5. Base giuridica del trattamento
 
-4. Condivisione dei dati con terze parti
-I tuoi dati personali sono al sicuro. Non vendo, affitto, scambio o condivido in alcun modo le tue informazioni personali con terze parti. I dati risiedono unicamente sui server necessari al funzionamento tecnico dell'App (es. il database dove è salvato il tuo account) che rispettano a loro volta gli standard di sicurezza del GDPR.
+Il trattamento dei dati si basa su:
 
-5. Tutela dei minori (Under 16)
-L'App non è destinata a minori di 16 anni. Nel rispetto del Regolamento Generale sulla Protezione dei Dati (GDPR), non raccolgo consapevolmente dati personali di utenti al di sotto dei 16 anni, senza il consenso verificabile di un genitore. L'App prevede un blocco in fase di registrazione che impedisce la creazione di un account se la data di nascita inserita indica un'età inferiore ai 16 anni. Qualora mi rendessi conto di aver inavvertitamente raccolto dati personali di un minore di 16 anni, provvederò a cancellarli immediatamente dai miei server.
+- il consenso dell’utente;
+- la necessità di fornire i servizi richiesti tramite l’app.
 
-6. I tuoi diritti (GDPR)
-In conformità con il GDPR, se risiedi nello Spazio Economico Europeo (SEE), hai il diritto di:
-* Accedere ai tuoi dati personali in mio possesso.
-* Rettificare o aggiornare i tuoi dati.
-* Cancellare i tuoi dati (Diritto all'oblio). Puoi richiedere l'eliminazione completa del tuo account e di tutti i dati associati contattandomi via e-mail.
-* Opporti o limitare il trattamento dei tuoi dati.
+6. Modalità di trattamento e sicurezza
 
-7. Modifiche a questa Informativa
-Potrei aggiornare questa Informativa sulla Privacy di tanto in tanto (ad esempio, se in futuro decidessi di aggiungere servizi a pagamento o nuove funzioni). Qualsiasi modifica verrà pubblicata su questa pagina aggiornando la "Data di ultimo aggiornamento" in alto.
+I dati sono trattati con strumenti informatici e adottando misure di sicurezza adeguate per proteggerli da accessi non autorizzati, perdita o uso illecito.
 
-8. Contatti
-Se hai domande, dubbi o desideri esercitare i tuoi diritti previsti dal GDPR riguardo a questa Informativa sulla Privacy, puoi contattarmi direttamente a: E-mail: supporto.ugolf@gmail.com
+7. Comunicazione dei dati
+
+I dati possono essere trattati da:
+
+- servizi tecnici necessari al funzionamento dell’app (es. hosting, database) per migliorarne le performance tecniche;
+- sistemi terzi da cui vengono acquisiti dati sportivi, nei limiti delle autorizzazioni fornite dall’utente.
+I dati non sono diffusi a terzi per finalità commerciali.
+ 
+8. Conservazione dei dati
+
+I dati sono conservati per il tempo necessario a fornire il servizio e possono essere cancellati su richiesta dell’utente, salvo obblighi di legge.
+
+
+9. Diritti dell’utente
+
+L’utente ha il diritto di:
+
+- accedere ai propri dati;
+- richiederne la rettifica o cancellazione;
+- opporsi al trattamento;
+- richiedere la limitazione del trattamento.
+Le richieste possono essere effettuate contattando direttamente UGolf.
+
+10. Contatti
+Se hai domande, dubbi o desideri esercitare i tuoi diritti previsti dal GDPR riguardo a questa Informativa sulla Privacy, puoi contattare UGolf alla E-mail supporto.ugolf@gmail.com
+
+11. Modifiche alla Privacy Policy
+
+La presente Privacy Policy può essere aggiornata in qualsiasi momento.
+Le modifiche saranno comunicate tramite l’app.
+
+Utilizzando l’app UGolf, l’utente dichiara di aver letto e compreso la presente Privacy Policy.
