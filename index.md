@@ -43,7 +43,11 @@ L'App non richiede né accede ad alcun dato personale o sensibile presente sul t
 - Non accede alla tua galleria fotografica.
 - Non accede alla tua rubrica o ai tuoi contatti.
 
-5. Base giuridica del trattamento
+5. Tutela dei minori (Under 16)
+
+UGolf non è destinata a minori di 16 anni. Nel rispetto del Regolamento Generale sulla Protezione dei Dati (GDPR), UGolf non raccoglie consapevolmente dati personali di utenti al di sotto dei 16 anni, senza il consenso verificabile di un genitore. L'App prevede un blocco in fase di registrazione che impedisce la creazione di un account se la data di nascita inserita indica un'età inferiore ai 16 anni. Qualora UGolf si rendesse conto di aver inavvertitamente raccolto dati personali di un minore di 16 anni, provvederà a cancellarli immediatamente dai suoi server.
+
+6. Base giuridica del trattament
 
 Il trattamento dei dati si basa su:
 
@@ -78,9 +82,10 @@ L’utente ha il diritto di:
 Le richieste possono essere effettuate contattando direttamente UGolf.
 
 10. Contatti
+
 Se hai domande, dubbi o desideri esercitare i tuoi diritti previsti dal GDPR riguardo a questa Informativa sulla Privacy, puoi contattare UGolf alla E-mail supporto.ugolf@gmail.com
 
-11. Modifiche alla Privacy Policy
+12. Modifiche alla Privacy Policy
 
 La presente Privacy Policy può essere aggiornata in qualsiasi momento.
 Le modifiche saranno comunicate tramite l’app.
