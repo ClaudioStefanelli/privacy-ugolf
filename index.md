@@ -47,7 +47,7 @@ L'App non richiede né accede ad alcun dato personale o sensibile presente sul t
 
 UGolf non è destinata a minori di 16 anni. Nel rispetto del Regolamento Generale sulla Protezione dei Dati (GDPR), UGolf non raccoglie consapevolmente dati personali di utenti al di sotto dei 16 anni, senza il consenso verificabile di un genitore. L'App prevede un blocco in fase di registrazione che impedisce la creazione di un account se la data di nascita inserita indica un'età inferiore ai 16 anni. Qualora UGolf si rendesse conto di aver inavvertitamente raccolto dati personali di un minore di 16 anni, provvederà a cancellarli immediatamente dai suoi server.
 
-6. Base giuridica del trattament
+6. Base giuridica del trattamento
 
 Il trattamento dei dati si basa su:
 
@@ -58,14 +58,12 @@ Il trattamento dei dati si basa su:
 
 I dati sono trattati con strumenti informatici e adottando misure di sicurezza adeguate per proteggerli da accessi non autorizzati, perdita o uso illecito.
 
-8. Comunicazione dei dati
+8. Condivisione ed archiviazione dei dati
 
-I dati possono essere trattati da:
+- Non condivisione con terze parti: i dati personali raccolti tramite l'applicazione sono trattati con la massima riservatezza. Il Titolare del Trattamento non vende, non affitta e non condivide in alcun modo i dati personali degli utenti con aziende terze, partner commerciali, sponsor o inserzionisti per scopi di marketing, profilazione o per qualsiasi altra finalità commerciale. I dati vengono utilizzati esclusivamente per garantire il corretto funzionamento tecnico e operativo dell'applicazione.
+- Servizi di Hosting e archiviazione cloud (Google Firebase): per garantire i massimi standard di sicurezza, stabilità e velocità, l'applicazione si avvale di Google Firebase (un servizio fornito da Google Ireland Limited) come infrastruttura di database e cloud hosting.
+In questo contesto, Google Firebase agisce strettamente in qualità di Responsabile del Trattamento esterno. I dati personali degli utenti vengono salvati sui server sicuri di Google al solo scopo di archiviazione tecnica. Google Firebase funge esclusivamente da fornitore dell'infrastruttura tecnologica: non ha alcun accesso diretto o autorizzazione per leggere, analizzare, elaborare o utilizzare i dati personali degli utenti per scopi propri o di terzi (rif. Privacy Policy di Google https://policies.google.com/privacy)
 
-- servizi tecnici necessari al funzionamento dell’app (es. hosting, database) per migliorarne le performance tecniche;
-- sistemi terzi da cui vengono acquisiti dati sportivi, nei limiti delle autorizzazioni fornite dall’utente.
-I dati non sono diffusi a terzi per finalità commerciali.
- 
 9. Conservazione dei dati
 
 I dati sono conservati per il tempo necessario a fornire il servizio e possono essere cancellati su richiesta dell’utente, salvo obblighi di legge.
