@@ -54,11 +54,11 @@ Il trattamento dei dati si basa su:
 - il consenso dell’utente;
 - la necessità di fornire i servizi richiesti tramite l’app.
 
-6. Modalità di trattamento e sicurezza
+7. Modalità di trattamento e sicurezza
 
 I dati sono trattati con strumenti informatici e adottando misure di sicurezza adeguate per proteggerli da accessi non autorizzati, perdita o uso illecito.
 
-7. Comunicazione dei dati
+8. Comunicazione dei dati
 
 I dati possono essere trattati da:
 
@@ -66,12 +66,12 @@ I dati possono essere trattati da:
 - sistemi terzi da cui vengono acquisiti dati sportivi, nei limiti delle autorizzazioni fornite dall’utente.
 I dati non sono diffusi a terzi per finalità commerciali.
  
-8. Conservazione dei dati
+9. Conservazione dei dati
 
 I dati sono conservati per il tempo necessario a fornire il servizio e possono essere cancellati su richiesta dell’utente, salvo obblighi di legge.
 
 
-9. Diritti dell’utente
+10. Diritti dell’utente
 
 L’utente ha il diritto di:
 
@@ -81,7 +81,7 @@ L’utente ha il diritto di:
 - richiedere la limitazione del trattamento.
 Le richieste possono essere effettuate contattando direttamente UGolf.
 
-10. Contatti
+11. Contatti
 
 Se hai domande, dubbi o desideri esercitare i tuoi diritti previsti dal GDPR riguardo a questa Informativa sulla Privacy, puoi contattare UGolf alla E-mail supporto.ugolf@gmail.com
 
